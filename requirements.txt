@@ -1,0 +1,17 @@
+
+# データ操作
+numpy
+
+# 可視化
+matplotlib
+japanize_matplotlib
+
+# 強化学習用
+openai
+gymnasium[all]
+torch 
+torchvision
+
+# ノートブック
+ipython
+jupyterlab
