@@ -1,6 +1,7 @@
 
 # データ操作
-numpy
+# numpy
+moviepy
 
 # 可視化
 matplotlib
@@ -8,10 +9,10 @@ japanize_matplotlib
 
 # 強化学習用
 openai
-gymnasium[all]
+gymnasium[box2d-py]
 torch 
 torchvision
 
 # ノートブック
-ipython
-jupyterlab
+# ipython
+# jupyterlab
